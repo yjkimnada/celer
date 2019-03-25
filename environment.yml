@@ -4,18 +4,19 @@
 name: celer-env
 
 dependencies:
-    - ipython
-    - numpy>=1.12
-    - seaborn>=0.7
-    - scipy>=0.18.0
-    - matplotlib>=2.0.0
     - Cython>=0.26
-    - scikit-learn>=0.20.1
-    - tqdm
+    - ipython
+    - matplotlib>=2.0.0
     - nose
+    - numba>=0.41
+    - numpy>=1.12
     - numpydoc
     - pytest
     - pytest-cov
+    - scikit-learn>=0.20.1
+    - scipy>=0.18.0
+    - seaborn>=0.7
+    - tqdm
 
     - pip:
         - "https://api.github.com/repos/choldgraf/download/zipball/master"
