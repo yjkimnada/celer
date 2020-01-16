@@ -35,7 +35,7 @@ and install it with:
 Install the development version
 ===============================
 
-From a console or terminal clone the repository and install CELER:
+From a console or terminal clone the repository and install Celer:
 
 ::
 
